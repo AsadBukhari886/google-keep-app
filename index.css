@@ -1,0 +1,17 @@
+body {
+  background-color: aquamarine;
+}
+.main {
+  border: 1px solid silver;
+  margin-left: 550px;
+  margin-right: 600px;
+  overflow: hidden;
+  padding: 2px;
+
+}
+.input{
+border: none;
+}
+.textarea{
+ 
+}
